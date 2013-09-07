@@ -1,7 +1,7 @@
 {
     "name": "peach-schnapps/kint",
     "description": "Kint Debugger for Laravel 4",
-    "keywords": ["kint", "debug", "dump", "laravel", "l4"],
+    "keywords": ["kint", "debug", "dump", "laravel", "l4", "laravel-4"],
     "authors": [
         {
             "name": "electblake",
